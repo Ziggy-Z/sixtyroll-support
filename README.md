@@ -1,5 +1,3 @@
-# SixtyRoll Support
-
 If you need help, have questions, or want to report an issue with **SixtyRoll**, please contact us using the information below.
 
 **Email:** sixtyroll.dev@gmail.com
