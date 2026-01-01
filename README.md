@@ -27,3 +27,6 @@ If you encounter a safety issue or believe the app is being misused, please repo
 
 - GPS access is required to measure speed
 - An active internet connection is required for synchronization
+
+© 2026 SixtyRoll. All rights reserved.
+
